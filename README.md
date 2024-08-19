@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efessh&label=Profile%20views&color=0e75b6&style=flat-square" alt="efessh" /> </p>
 
+- ⚡ To support **Soon**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/VgCfmtDSXk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VgCfmtDSXk" height="30" width="40" /></a>
