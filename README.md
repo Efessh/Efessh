@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efessh&label=Profile%20views&color=0e75b6&style=flat-square" alt="efessh" /> </p>
 
-- ⚡ To support **Soon**
+<h3 align="left">- ⚡ To support **Soon**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
